@@ -1,0 +1,19 @@
+{
+  "id": "e239daae-fa68-44a3-9eea-8d68c899226a",
+  "name": "applicationnode_environment",
+  "values": [
+    {
+      "key": "token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MTQ1NTNjODNjYzU3OWE0NjM2MjlkMSIsInVzZXJuYW1lIjoiVGF0eWFuYS5SdW5vbGZzc29uIiwiaWF0IjoxNjc5MTMwNDA3LCJleHAiOjE2Nzk3MzA0MDd9.gij2VVCilDJbC7NB-cPeA9xKgAuB0XXkMv44yFhRlN4",
+      "enabled": true
+    },
+    {
+      "key": "url",
+      "value": "http://localhost:5000",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2023-03-18T07:07:38.928Z",
+  "_postman_exported_using": "Postman"
+}
